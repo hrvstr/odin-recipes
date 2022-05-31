@@ -1,0 +1,12 @@
+html {
+  padding: 1.5rem;
+}
+
+body {
+  font-family: system-ui;
+  line-height: 1.5;
+}
+
+img {
+  max-width: 100%;
+}
