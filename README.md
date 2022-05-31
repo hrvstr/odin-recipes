@@ -1,6 +1,6 @@
 # TOP Project #1: Recipes
 
-A simple HTML web page to show the ingredients and directions to cook a nice and healthy meal.
+A simple HTML website to show the ingredients and directions to cook a nice and healthy meal.
 
 ## Skills learned for this project
 
